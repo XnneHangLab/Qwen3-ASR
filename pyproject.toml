@@ -31,9 +31,6 @@ dependencies = [
 
 [project.optional-dependencies]
 demo = ["gradio", "flask", "pytz", "sox"]
-vllm = [
-  "vllm==0.14.0",
-]
 
 [project.urls]
 Homepage = "https://github.com/Qwen/Qwen3-ASR"
